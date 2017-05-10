@@ -12,6 +12,8 @@ Outline of the plan and goals for this group.
 * working on projects together
 * better social media/chatroom environments
 * help campers with finding junior level jobs
+* get a few more people involved with helping out
+* new sponsors
 
 ## Action Plan:
 
