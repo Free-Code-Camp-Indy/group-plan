@@ -12,6 +12,7 @@ Outline of the plan and goals for this group.
 * working on projects together
 * better social media/chatroom environments
 * help campers with finding junior level jobs
+* dedicated location for meetups
 * get a few more people involved with helping out
 * new sponsors
 
