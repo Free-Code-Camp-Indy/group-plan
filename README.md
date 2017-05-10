@@ -9,6 +9,8 @@ Outline of the plan and goals for this group.
 * more welcoming community
 * increase attendance at meetups
 * more collaboration/pair programming
+* working on projects together
+* better social media/chatroom environments
 * help campers with finding junior level jobs
 
 ## Action Plan:
