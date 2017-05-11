@@ -23,4 +23,5 @@ Outline of the plan and goals for this group.
 
 ## Action Plan:
 
-*Coming soon...*
+* Make a survey for what people want out of the group
+* 2 year anniverary celebration
